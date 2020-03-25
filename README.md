@@ -6,6 +6,4 @@ Let's talk about web dev, data viz, cloud, data science, and... you know, everyt
 
 All developers are welcome!
 
-Stay tuned, a new insteresting post every week!
-
-Follow me on [LinkedIn](https://www.linkedin.com/in/danilovcastro/)
+Stay tuned, a new insteresting post every week! Follow me on [LinkedIn](https://www.linkedin.com/in/danilovcastro/)
