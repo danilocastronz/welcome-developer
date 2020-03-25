@@ -1,9 +1,5 @@
 # Welcome, developer
 
-I'm Dan Castro, and I invite you to join me on the infinite journey of studying technology.
+This code is from the post **Introduction to React with D3.js** from [WelcomeDeveloper.com](https://www.welcomedeveloper.com/)
 
-Let's talk about web dev, data viz, cloud, data science, and... you know, everything that keep us awake late nights.
-
-All developers are welcome!
-
-Stay tuned, a new insteresting post every week! Follow me on [LinkedIn](https://www.linkedin.com/in/danilovcastro/)
+Feel free to clone it and start your own application. It gives you the basic to integrate React and D3.js.
