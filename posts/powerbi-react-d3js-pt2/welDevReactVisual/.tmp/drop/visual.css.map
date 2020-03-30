@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://welDevReactVisual1A4B9C17E6914119B3E74B5F3EC46009/./style/visual.less"],"names":[],"mappings":"AAAA;AACA;AACA;AACA;AACA;AACA;AACA;AACA","file":"visual.css","sourcesContent":["p {\n  font-size: 20px;\n  font-weight: normal;\n}\np em {\n  background: yellow;\n  padding: 5px;\n}\n"],"sourceRoot":""}
