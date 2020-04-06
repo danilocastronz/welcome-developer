@@ -1,0 +1,41 @@
+{
+    "version": 2,
+    "builds": [
+      {
+        "src": "app.js",
+        "use": "@now/node-server"
+      }
+    ],
+    "routes": [
+        {
+          "src": "/api",
+          "dest": "/app.js",
+          "methods": ["GET"]
+        },
+        {
+            "src": "/api/shows/comedy",
+            "dest": "/app.js",
+            "methods": ["GET"]
+          },
+          {
+            "src": "/api/shows/fantasy",
+            "dest": "/app.js",
+            "methods": ["GET"]
+          },
+          {
+            "src": "/api/shows/drama",
+            "dest": "/app.js",
+            "methods": ["GET"]
+          },
+          {
+            "src": "/api/shows/thriller",
+            "dest": "/app.js",
+            "methods": ["GET"]
+          },
+          {
+            "src": "/api/shows/crime",
+            "dest": "/app.js",
+            "methods": ["GET"]
+          }
+      ]
+  }
