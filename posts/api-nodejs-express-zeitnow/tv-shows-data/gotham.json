@@ -1,0 +1,1918 @@
+{
+  "id": 11,
+  "url": "http://www.tvmaze.com/shows/11/gotham",
+  "name": "Gotham",
+  "type": "Scripted",
+  "language": "English",
+  "genres": ["Drama", "Action", "Crime"],
+  "status": "Ended",
+  "runtime": 60,
+  "premiered": "2014-09-22",
+  "officialSite": "http://www.fox.com/gotham",
+  "schedule": { "time": "20:00", "days": ["Thursday"] },
+  "rating": { "average": 7.7 },
+  "weight": 95,
+  "network": {
+    "id": 4,
+    "name": "FOX",
+    "country": {
+      "name": "United States",
+      "code": "US",
+      "timezone": "America/New_York"
+    }
+  },
+  "webChannel": null,
+  "externals": { "tvrage": 38049, "thetvdb": 274431, "imdb": "tt3749900" },
+  "image": {
+    "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/189/474715.jpg",
+    "original": "http://static.tvmaze.com/uploads/images/original_untouched/189/474715.jpg"
+  },
+  "summary": "<p>The good. The evil. The beginning.</p><p>Everyone knows the name Commissioner Gordon. He is one of the crime world's greatest foes, a man whose reputation is synonymous with law and order. But what is known of Gordon's story and his rise from rookie detective to Police Commissioner? What did it take to navigate the multiple layers of corruption that secretly ruled Gotham City, the spawning ground of the world's most iconic villains? And what circumstances created them – the larger-than-life personas who would become Catwoman, The Penguin, The Riddler, Two-Face and The Joker?</p><p><b>Gotham </b>is an origin story of the great DC Comics Super-Villains and vigilantes, revealing an entirely new chapter that has never been told. It follows one cop's rise through a dangerously corrupt city teetering between good and evil, and chronicles the birth of one of the most popular super heroes of our time.</p>",
+  "updated": 1576077598,
+  "_links": {
+    "self": { "href": "http://api.tvmaze.com/shows/11" },
+    "previousepisode": { "href": "http://api.tvmaze.com/episodes/1616387" }
+  },
+  "_embedded": {
+    "episodes": [
+      {
+        "id": 485,
+        "url": "http://www.tvmaze.com/episodes/485/gotham-1x01-pilot",
+        "name": "Pilot",
+        "season": 1,
+        "number": 1,
+        "airdate": "2014-09-22",
+        "airtime": "20:00",
+        "airstamp": "2014-09-23T00:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/0/1148.jpg",
+          "original": "http://static.tvmaze.com/uploads/images/original_untouched/0/1148.jpg"
+        },
+        "summary": "<p>Lt. Jim Gordon tries to deal with the corruption in his new home of Gotham, but his partner Harvey Bullock isn't interested. Their first case is investigating the shooting deaths of one of Gotham's wealthiest couples, the Waynes.</p>",
+        "_links": { "self": { "href": "http://api.tvmaze.com/episodes/485" } }
+      },
+      {
+        "id": 486,
+        "url": "http://www.tvmaze.com/episodes/486/gotham-1x02-selina-kyle",
+        "name": "Selina Kyle",
+        "season": 1,
+        "number": 2,
+        "airdate": "2014-09-29",
+        "airtime": "20:00",
+        "airstamp": "2014-09-30T00:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/0/1149.jpg",
+          "original": "http://static.tvmaze.com/uploads/images/original_untouched/0/1149.jpg"
+        },
+        "summary": "<p>Jim and Harvey investigate a child-trafficking ring, while Oswald returns to Gotham vowing revenge.</p>",
+        "_links": { "self": { "href": "http://api.tvmaze.com/episodes/486" } }
+      },
+      {
+        "id": 487,
+        "url": "http://www.tvmaze.com/episodes/487/gotham-1x03-the-balloonman",
+        "name": "The Balloonman",
+        "season": 1,
+        "number": 3,
+        "airdate": "2014-10-06",
+        "airtime": "20:00",
+        "airstamp": "2014-10-07T00:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/0/1150.jpg",
+          "original": "http://static.tvmaze.com/uploads/images/original_untouched/0/1150.jpg"
+        },
+        "summary": "<p>A vigilante targets the corrupt by sending them into the stratosphere. Oswald tries to use Carmine's rival to get revenge on Carmine, and someone tries to turn Barbara against Jim.</p>",
+        "_links": { "self": { "href": "http://api.tvmaze.com/episodes/487" } }
+      },
+      {
+        "id": 488,
+        "url": "http://www.tvmaze.com/episodes/488/gotham-1x04-arkham",
+        "name": "Arkham",
+        "season": 1,
+        "number": 4,
+        "airdate": "2014-10-13",
+        "airtime": "20:00",
+        "airstamp": "2014-10-14T00:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/0/1151.jpg",
+          "original": "http://static.tvmaze.com/uploads/images/original_untouched/0/1151.jpg"
+        },
+        "summary": "<p>Someone hires a hitman to target city council members deciding the fate of Arkham. Oswald continues using Maroni to get at Carmine.</p>",
+        "_links": { "self": { "href": "http://api.tvmaze.com/episodes/488" } }
+      },
+      {
+        "id": 10388,
+        "url": "http://www.tvmaze.com/episodes/10388/gotham-1x05-viper",
+        "name": "Viper",
+        "season": 1,
+        "number": 5,
+        "airdate": "2014-10-20",
+        "airtime": "20:00",
+        "airstamp": "2014-10-21T00:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/1/4839.jpg",
+          "original": "http://static.tvmaze.com/uploads/images/original_untouched/1/4839.jpg"
+        },
+        "summary": "<p>Jim and Harvey try to track down a new street drug, while Oswald and Fish both continue their plots against Carmine. Bruce continues searching for his parents' killer.</p>",
+        "_links": { "self": { "href": "http://api.tvmaze.com/episodes/10388" } }
+      },
+      {
+        "id": 10389,
+        "url": "http://www.tvmaze.com/episodes/10389/gotham-1x06-spirit-of-the-goat",
+        "name": "Spirit of the Goat",
+        "season": 1,
+        "number": 6,
+        "airdate": "2014-10-27",
+        "airtime": "20:00",
+        "airstamp": "2014-10-28T00:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/2/6106.jpg",
+          "original": "http://static.tvmaze.com/uploads/images/original_untouched/2/6106.jpg"
+        },
+        "summary": "<p>A seemingly dead serial killer, the Goat, rises to kill more firstborn sons of wealth and privilege. Oswald pays his mother Gertrud a visit, and Edward makes a friend.</p>",
+        "_links": { "self": { "href": "http://api.tvmaze.com/episodes/10389" } }
+      },
+      {
+        "id": 10390,
+        "url": "http://www.tvmaze.com/episodes/10390/gotham-1x07-penguins-umbrella",
+        "name": "Penguin's Umbrella",
+        "season": 1,
+        "number": 7,
+        "airdate": "2014-11-03",
+        "airtime": "20:00",
+        "airstamp": "2014-11-04T01:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/3/7677.jpg",
+          "original": "http://static.tvmaze.com/uploads/images/original_untouched/3/7677.jpg"
+        },
+        "summary": "<p>Jim tries to bring Mayor James and Falcone to justice for the Waynes' murder. Maroni defies Carmine, and hitman Victor Zsasz pays Jim a visit.</p>",
+        "_links": { "self": { "href": "http://api.tvmaze.com/episodes/10390" } }
+      },
+      {
+        "id": 31857,
+        "url": "http://www.tvmaze.com/episodes/31857/gotham-1x08-the-mask",
+        "name": "The Mask",
+        "season": 1,
+        "number": 8,
+        "airdate": "2014-11-10",
+        "airtime": "20:00",
+        "airstamp": "2014-11-11T01:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/4/10277.jpg",
+          "original": "http://static.tvmaze.com/uploads/images/original_untouched/4/10277.jpg"
+        },
+        "summary": "<p>A financial CEO runs a fight club among his employees, and Jim and Harvey find out about it. Alfred helps Bruce when he returns to school and finds his classmates less than sympathetic toward his plight.</p>",
+        "_links": { "self": { "href": "http://api.tvmaze.com/episodes/31857" } }
+      },
+      {
+        "id": 39386,
+        "url": "http://www.tvmaze.com/episodes/39386/gotham-1x09-harvey-dent",
+        "name": "Harvey Dent",
+        "season": 1,
+        "number": 9,
+        "airdate": "2014-11-17",
+        "airtime": "20:00",
+        "airstamp": "2014-11-18T01:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/4/11191.jpg",
+          "original": "http://static.tvmaze.com/uploads/images/original_untouched/4/11191.jpg"
+        },
+        "summary": "<p>DA Harvey Dent tries to close the Waynes' murder case with Jim's help. Meanwhile, Oswald finds out who Fish has on the inside of the Falcone operation.</p>",
+        "_links": { "self": { "href": "http://api.tvmaze.com/episodes/39386" } }
+      },
+      {
+        "id": 39624,
+        "url": "http://www.tvmaze.com/episodes/39624/gotham-1x10-lovecraft",
+        "name": "LoveCraft",
+        "season": 1,
+        "number": 10,
+        "airdate": "2014-11-24",
+        "airtime": "20:00",
+        "airstamp": "2014-11-25T01:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/5/12559.jpg",
+          "original": "http://static.tvmaze.com/uploads/images/original_untouched/5/12559.jpg"
+        },
+        "summary": "<p>Bruce trains with Selina, and an assassin comes after the girl. Jim learns about it, while Alfred and Harvey go after the teenagers when they flee the city to avoid the killer.</p>",
+        "_links": { "self": { "href": "http://api.tvmaze.com/episodes/39624" } }
+      },
+      {
+        "id": 58173,
+        "url": "http://www.tvmaze.com/episodes/58173/gotham-1x11-rogues-gallery",
+        "name": "Rogues' Gallery",
+        "season": 1,
+        "number": 11,
+        "airdate": "2015-01-05",
+        "airtime": "20:00",
+        "airstamp": "2015-01-06T01:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/7/18709.jpg",
+          "original": "http://static.tvmaze.com/uploads/images/original_untouched/7/18709.jpg"
+        },
+        "summary": "<p>After Jim is reassigned to Arkham, he looks into a guard's murder. Selina takes Ivy to Jim's apartment and finds an unexpected ally.</p>",
+        "_links": { "self": { "href": "http://api.tvmaze.com/episodes/58173" } }
+      },
+      {
+        "id": 103725,
+        "url": "http://www.tvmaze.com/episodes/103725/gotham-1x12-what-the-little-bird-told-him",
+        "name": "What the Little Bird Told Him",
+        "season": 1,
+        "number": 12,
+        "airdate": "2015-01-19",
+        "airtime": "20:00",
+        "airstamp": "2015-01-20T01:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/7/19555.jpg",
+          "original": "http://static.tvmaze.com/uploads/images/original_untouched/7/19555.jpg"
+        },
+        "summary": "<p>Jim hunts a self-styled \"Electrocutioner\", and Fish tries to take down Carmine.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/103725" }
+        }
+      },
+      {
+        "id": 117375,
+        "url": "http://www.tvmaze.com/episodes/117375/gotham-1x13-welcome-back-jim-gordon",
+        "name": "Welcome Back, Jim Gordon",
+        "season": 1,
+        "number": 13,
+        "airdate": "2015-01-26",
+        "airtime": "20:00",
+        "airstamp": "2015-01-27T01:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/7/19847.jpg",
+          "original": "http://static.tvmaze.com/uploads/images/original_untouched/7/19847.jpg"
+        },
+        "summary": "<p>Jim is reinstated but forced to turn to Oswald for help when he goes after a mole in the police. Bruce looks for Selina, and Oswald tries to impress Gertrud.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/117375" }
+        }
+      },
+      {
+        "id": 117724,
+        "url": "http://www.tvmaze.com/episodes/117724/gotham-1x14-the-fearsome-dr-crane",
+        "name": "The Fearsome Dr. Crane",
+        "season": 1,
+        "number": 14,
+        "airdate": "2015-02-02",
+        "airtime": "20:00",
+        "airstamp": "2015-02-03T01:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/8/20247.jpg",
+          "original": "http://static.tvmaze.com/uploads/images/original_untouched/8/20247.jpg"
+        },
+        "summary": "<p>Jim and Harvey investigate a new killer who uses his victims' worst fears against them. Edward gets a job notice, and Fish gets revenge on the person who betrayed her by telling Maroni who it was.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/117724" }
+        }
+      },
+      {
+        "id": 122942,
+        "url": "http://www.tvmaze.com/episodes/122942/gotham-1x15-the-scarecrow",
+        "name": "The Scarecrow",
+        "season": 1,
+        "number": 15,
+        "airdate": "2015-02-09",
+        "airtime": "20:00",
+        "airstamp": "2015-02-10T01:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/8/21389.jpg",
+          "original": "http://static.tvmaze.com/uploads/images/original_untouched/8/21389.jpg"
+        },
+        "summary": "<p>Jim and Harvey continue their search for the fear-based serial killer, Carmine makes a request of Maroni, and Bruce goes for his annual hike alone for the first time.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/122942" }
+        }
+      },
+      {
+        "id": 124046,
+        "url": "http://www.tvmaze.com/episodes/124046/gotham-1x16-the-blind-fortune-teller",
+        "name": "The Blind Fortune Teller",
+        "season": 1,
+        "number": 16,
+        "airdate": "2015-02-16",
+        "airtime": "20:00",
+        "airstamp": "2015-02-17T01:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/8/21773.jpg",
+          "original": "http://static.tvmaze.com/uploads/images/original_untouched/8/21773.jpg"
+        },
+        "summary": "<p>Jim and Leslie go to the circus, Oswald gets a new employee, and Barbara gets new roommates.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/124046" }
+        }
+      },
+      {
+        "id": 128988,
+        "url": "http://www.tvmaze.com/episodes/128988/gotham-1x17-red-hood",
+        "name": "Red Hood",
+        "season": 1,
+        "number": 17,
+        "airdate": "2015-02-23",
+        "airtime": "20:00",
+        "airstamp": "2015-02-24T01:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/8/22213.jpg",
+          "original": "http://static.tvmaze.com/uploads/images/original_untouched/8/22213.jpg"
+        },
+        "summary": "<p>Bank robbers wear red hoods to stay anonymous, baffling Jim and Harvey's efforts to bring them in. Barbara tries to become Selina's friend, and Fish tries to negotiate her release.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/128988" }
+        }
+      },
+      {
+        "id": 139722,
+        "url": "http://www.tvmaze.com/episodes/139722/gotham-1x18-everyone-has-a-cobblepot",
+        "name": "Everyone Has a Cobblepot",
+        "season": 1,
+        "number": 18,
+        "airdate": "2015-03-02",
+        "airtime": "20:00",
+        "airstamp": "2015-03-03T01:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/9/22811.jpg",
+          "original": "http://static.tvmaze.com/uploads/images/original_untouched/9/22811.jpg"
+        },
+        "summary": "<p>Bruce and Alfred deal with the attack on Alfred. Selina offers her help to Bruce, and Jim tries to help Harvey who is in over his head.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/139722" }
+        }
+      },
+      {
+        "id": 142527,
+        "url": "http://www.tvmaze.com/episodes/142527/gotham-1x19-beasts-of-prey",
+        "name": "Beasts of Prey",
+        "season": 1,
+        "number": 19,
+        "airdate": "2015-04-13",
+        "airtime": "20:00",
+        "airstamp": "2015-04-14T00:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/10/25551.jpg",
+          "original": "http://static.tvmaze.com/uploads/images/original_untouched/10/25551.jpg"
+        },
+        "summary": "<p>While Bruce and Selina track down Reggie, Jim and Harvey investigate the Ogre, and Fish tries to escape the Dollmaker.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/142527" }
+        }
+      },
+      {
+        "id": 142528,
+        "url": "http://www.tvmaze.com/episodes/142528/gotham-1x20-under-the-knife",
+        "name": "Under the Knife",
+        "season": 1,
+        "number": 20,
+        "airdate": "2015-04-20",
+        "airtime": "20:00",
+        "airstamp": "2015-04-21T00:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/10/26059.jpg",
+          "original": "http://static.tvmaze.com/uploads/images/original_untouched/10/26059.jpg"
+        },
+        "summary": "<p>Jim and Harvey continue pursuing the Ogre, Maroni visits Gertrud, and Edward defends Kristen.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/142528" }
+        }
+      },
+      {
+        "id": 142529,
+        "url": "http://www.tvmaze.com/episodes/142529/gotham-1x21-the-anvil-or-the-hammer",
+        "name": "The Anvil or the Hammer",
+        "season": 1,
+        "number": 21,
+        "airdate": "2015-04-27",
+        "airtime": "20:00",
+        "airstamp": "2015-04-28T00:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/10/26515.jpg",
+          "original": "http://static.tvmaze.com/uploads/images/original_untouched/10/26515.jpg"
+        },
+        "summary": "<p>Jim discovers that someone close to him is involved with the Ogre. Oswald tries to gain control of the Gotham underworld, and Bruce closes in on the person responsible for his parents' deaths.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/142529" }
+        }
+      },
+      {
+        "id": 142530,
+        "url": "http://www.tvmaze.com/episodes/142530/gotham-1x22-all-happy-families-are-alike",
+        "name": "All Happy Families Are Alike",
+        "season": 1,
+        "number": 22,
+        "airdate": "2015-05-04",
+        "airtime": "20:00",
+        "airstamp": "2015-05-05T00:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/10/26891.jpg",
+          "original": "http://static.tvmaze.com/uploads/images/original_untouched/10/26891.jpg"
+        },
+        "summary": "<p>The mob war that Oswald has engineered between Falcone and Maroni comes to a startling conclusion when Fish returns from the dead. Meanwhile, Bruce finds his father's secret, and Barbara and Leslie have a heart-to-heart chat.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/142530" }
+        }
+      },
+      {
+        "id": 182238,
+        "url": "http://www.tvmaze.com/episodes/182238/gotham-2x01-rise-of-the-villains-damned-if-you-do",
+        "name": "Rise of the Villains: Damned If You Do",
+        "season": 2,
+        "number": 1,
+        "airdate": "2015-09-21",
+        "airtime": "20:00",
+        "airstamp": "2015-09-22T00:00:00+00:00",
+        "runtime": 45,
+        "image": {
+          "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/19/49823.jpg",
+          "original": "http://static.tvmaze.com/uploads/images/original_untouched/19/49823.jpg"
+        },
+        "summary": "<p>While Bruce continues to try and penetrate his father's vault, Loeb fires Jim from the force... and Jim takes extreme measures to get reinstated. Meanwhile, Barbara settles in to life at Arkham Asylum and makes several new friends.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/182238" }
+        }
+      },
+      {
+        "id": 205685,
+        "url": "http://www.tvmaze.com/episodes/205685/gotham-2x02-rise-of-the-villains-knock-knock",
+        "name": "Rise of the Villains: Knock Knock",
+        "season": 2,
+        "number": 2,
+        "airdate": "2015-09-28",
+        "airtime": "20:00",
+        "airstamp": "2015-09-29T00:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/21/53818.jpg",
+          "original": "http://static.tvmaze.com/uploads/images/original_untouched/21/53818.jpg"
+        },
+        "summary": "<p>Theo sends his team of Maniax out on a new assignment, but it's only the prelude to something much larger and bloodier. Meanwhile, Alfred tries to protect Bruce, and turns to Lucius Fox for help.<br></p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/205685" }
+        }
+      },
+      {
+        "id": 205686,
+        "url": "http://www.tvmaze.com/episodes/205686/gotham-2x03-rise-of-the-villains-the-last-laugh",
+        "name": "Rise of the Villains: The Last Laugh",
+        "season": 2,
+        "number": 3,
+        "airdate": "2015-10-05",
+        "airtime": "20:00",
+        "airstamp": "2015-10-06T00:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/22/57203.jpg",
+          "original": "http://static.tvmaze.com/uploads/images/original_untouched/22/57203.jpg"
+        },
+        "summary": "<p>Jim is reluctant to turn to Oswald for help, so Harvey pays the new crime boss a visit. Meanwhile, Jerome poses as a magician to infiltrate a children's hospital benefit, but discovers that Theo has other plans in store for him.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/205686" }
+        }
+      },
+      {
+        "id": 205687,
+        "url": "http://www.tvmaze.com/episodes/205687/gotham-2x04-rise-of-the-villains-strike-force",
+        "name": "Rise of the Villains: Strike Force",
+        "season": 2,
+        "number": 4,
+        "airdate": "2015-10-12",
+        "airtime": "20:00",
+        "airstamp": "2015-10-13T00:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/23/59296.jpg",
+          "original": "http://static.tvmaze.com/uploads/images/original_untouched/23/59296.jpg"
+        },
+        "summary": "<p>The GCPD gets a new captain and he immediately cleans house and brings on Jim as his second-in-command... unaware of Jim's background with the Penguin. Meanwhile, Theo asks the Penguin for a favor, and Bruce and Theo have lunch.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/205687" }
+        }
+      },
+      {
+        "id": 205688,
+        "url": "http://www.tvmaze.com/episodes/205688/gotham-2x05-rise-of-the-villains-scarification",
+        "name": "Rise of the Villains: Scarification",
+        "season": 2,
+        "number": 5,
+        "airdate": "2015-10-19",
+        "airtime": "20:00",
+        "airstamp": "2015-10-20T00:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/25/63177.jpg",
+          "original": "http://static.tvmaze.com/uploads/images/original_untouched/25/63177.jpg"
+        },
+        "summary": "<p>Theo forces Oswald to hire the Pike Brothers to torch select buildings in Gotham, and the Pikes use their sister Bridgit. Meanwhile, Theo asks Jim for his endorsement, Oswald orders Butch to lend a hand, and Leslie invites Edward and Kristen over for fondue.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/205688" }
+        }
+      },
+      {
+        "id": 205689,
+        "url": "http://www.tvmaze.com/episodes/205689/gotham-2x06-rise-of-the-villains-by-fire",
+        "name": "Rise of the Villains: By Fire",
+        "season": 2,
+        "number": 6,
+        "airdate": "2015-10-26",
+        "airtime": "20:00",
+        "airstamp": "2015-10-27T00:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/26/65830.jpg",
+          "original": "http://static.tvmaze.com/uploads/images/original_untouched/26/65830.jpg"
+        },
+        "summary": "<p>Jim promises Selina to keep the new Firefly safe, but discovers that the girl doesn't want to turn herself in. Meanwhile, Theo and Silver invite Bruce to dinner, Edward tells Kirsten the truth, and Butch finds out where Gertrude is imprisoned.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/205689" }
+        }
+      },
+      {
+        "id": 377748,
+        "url": "http://www.tvmaze.com/episodes/377748/gotham-2x07-rise-of-the-villains-mommys-little-monster",
+        "name": "Rise of the Villains: Mommy's Little Monster",
+        "season": 2,
+        "number": 7,
+        "airdate": "2015-11-02",
+        "airtime": "20:00",
+        "airstamp": "2015-11-03T01:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/27/68906.jpg",
+          "original": "http://static.tvmaze.com/uploads/images/original_untouched/27/68906.jpg"
+        },
+        "summary": "<p>Jim begins to realize that Theo has orchestrated everything to become mayor. Meanwhile, Oswald swears revenge on the man who killed his mother, and Edward tries to cover up Kristen's death but faces an opponent that knows his every move.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/377748" }
+        }
+      },
+      {
+        "id": 395053,
+        "url": "http://www.tvmaze.com/episodes/395053/gotham-2x08-rise-of-the-villains-tonights-the-night",
+        "name": "Rise of the Villains: Tonight's the Night",
+        "season": 2,
+        "number": 8,
+        "airdate": "2015-11-09",
+        "airtime": "20:00",
+        "airstamp": "2015-11-10T01:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/29/72862.jpg",
+          "original": "http://static.tvmaze.com/uploads/images/original_untouched/29/72862.jpg"
+        },
+        "summary": "<p>While Theo tries to convince Bruce to sign over Wayne Enterprises to him, he sends Barbara as a distraction to keep Jim occupied. Meanwhile, Edward has one last picnic lunch with Kirsten before disposing of her body, and ends up meeting a familiar figure.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/395053" }
+        }
+      },
+      {
+        "id": 406217,
+        "url": "http://www.tvmaze.com/episodes/406217/gotham-2x09-rise-of-the-villains-a-bitter-pill-to-swallow",
+        "name": "Rise of the Villains: A Bitter Pill to Swallow",
+        "season": 2,
+        "number": 9,
+        "airdate": "2015-11-16",
+        "airtime": "20:00",
+        "airstamp": "2015-11-17T01:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/30/76198.jpg",
+          "original": "http://static.tvmaze.com/uploads/images/original_untouched/30/76198.jpg"
+        },
+        "summary": "<p>While Jim and Barnes takes on hit men sent to kill Jim, Edward convinces Oswald that he has something to live for in Gotham. Meanwhile, Alfred forbids Bruce from seeing Silver again, even though she may hold the key to finding out whose his parents' killer was.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/406217" }
+        }
+      },
+      {
+        "id": 409128,
+        "url": "http://www.tvmaze.com/episodes/409128/gotham-2x10-rise-of-the-villains-the-son-of-gotham",
+        "name": "Rise of the Villains: The Son of Gotham",
+        "season": 2,
+        "number": 10,
+        "airdate": "2015-11-23",
+        "airtime": "20:00",
+        "airstamp": "2015-11-24T01:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/31/79369.jpg",
+          "original": "http://static.tvmaze.com/uploads/images/original_untouched/31/79369.jpg"
+        },
+        "summary": "<p>While Jim and Harvey try to track down the elusive monks performing blood sacrifices, Bruce proposes a new deal with Silver to find out the name of his parents' killers. Meanwhile, Edward gets used to having a roommate.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/409128" }
+        }
+      },
+      {
+        "id": 429434,
+        "url": "http://www.tvmaze.com/episodes/429434/gotham-2x11-rise-of-the-villains-worse-than-a-crime",
+        "name": "Rise of the Villains: Worse Than a Crime",
+        "season": 2,
+        "number": 11,
+        "airdate": "2015-11-30",
+        "airtime": "20:00",
+        "airstamp": "2015-12-01T01:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/32/81950.jpg",
+          "original": "http://static.tvmaze.com/uploads/images/original_untouched/32/81950.jpg"
+        },
+        "summary": "<p>Jim discovers that the Order of Dumas is prepared to sacrifice Bruce at midnight, and turns to Oswald for help. Meanwhile, Leslie gives Jim startling news, Tabitha comes to a decision about her brother, and a new vigilante stalks the streets of Gotham.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/429434" }
+        }
+      },
+      {
+        "id": 503543,
+        "url": "http://www.tvmaze.com/episodes/503543/gotham-2x12-wrath-of-the-villains-mr-freeze",
+        "name": "Wrath of the Villains: Mr. Freeze",
+        "season": 2,
+        "number": 12,
+        "airdate": "2016-02-29",
+        "airtime": "20:00",
+        "airstamp": "2016-03-01T01:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/33/84419.jpg",
+          "original": "http://static.tvmaze.com/uploads/images/original_untouched/33/84419.jpg"
+        },
+        "summary": "<p>A new killer stalks the streets of Gotham, freezing victims with liquid helium for his experiments in cyrogenic reanimation. Meanwhile, Jim goes before the board for his actions in taking down Theo, and a captured Oswald is sentenced to Arkham.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/503543" }
+        }
+      },
+      {
+        "id": 611516,
+        "url": "http://www.tvmaze.com/episodes/611516/gotham-2x13-wrath-of-the-villains-a-dead-man-feels-no-cold",
+        "name": "Wrath of the Villains: A Dead Man Feels No Cold",
+        "season": 2,
+        "number": 13,
+        "airdate": "2016-03-07",
+        "airtime": "20:00",
+        "airstamp": "2016-03-08T01:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/44/111441.jpg",
+          "original": "http://static.tvmaze.com/uploads/images/original_untouched/44/111441.jpg"
+        },
+        "summary": "<p>The GCPD take Nora to Arkham when her condition worsens, and Victor breaks into the asylum in his new guise as Mr. Freeze. Meanwhile, Oswald undergoes extreme treatment at Hugo's hands, and Alfred finds the mysterious M. Malone that killed Bruce's parents.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/611516" }
+        }
+      },
+      {
+        "id": 622393,
+        "url": "http://www.tvmaze.com/episodes/622393/gotham-2x14-wrath-of-the-villains-this-ball-of-mud-and-meanness",
+        "name": "Wrath of the Villains: This Ball of Mud and Meanness",
+        "season": 2,
+        "number": 14,
+        "airdate": "2016-03-14",
+        "airtime": "20:00",
+        "airstamp": "2016-03-15T00:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/47/118491.jpg",
+          "original": "http://static.tvmaze.com/uploads/images/original_untouched/47/118491.jpg"
+        },
+        "summary": "<p>While Hugo continues Oswald's treatment at Arkham, Bruce goes on a hunt for his parents' killer.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/622393" }
+        }
+      },
+      {
+        "id": 628601,
+        "url": "http://www.tvmaze.com/episodes/628601/gotham-2x15-wrath-of-the-villains-mad-grey-dawn",
+        "name": "Wrath of the Villains: Mad Grey Dawn",
+        "season": 2,
+        "number": 15,
+        "airdate": "2016-03-21",
+        "airtime": "20:00",
+        "airstamp": "2016-03-22T00:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/48/120237.jpg",
+          "original": "http://static.tvmaze.com/uploads/images/original_untouched/48/120237.jpg"
+        },
+        "summary": "<p>Jim and Harvey try to track down a bomber who leaves riddles to his crimes. Meanwhile, Oswald pays old friends a visit and is reunited with the father and family that he never knew.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/628601" }
+        }
+      },
+      {
+        "id": 638032,
+        "url": "http://www.tvmaze.com/episodes/638032/gotham-2x16-wrath-of-the-villains-prisoners",
+        "name": "Wrath of the Villains: Prisoners",
+        "season": 2,
+        "number": 16,
+        "airdate": "2016-03-28",
+        "airtime": "20:00",
+        "airstamp": "2016-03-29T00:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/48/121634.jpg",
+          "original": "http://static.tvmaze.com/uploads/images/original_untouched/48/121634.jpg"
+        },
+        "summary": "<p>While Jim adjusts to life in prison, Harvey makes plans to break his friend out. Meanwhile, Oswald adjusts to family life but discovers that his new relatives have other plans.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/638032" }
+        }
+      },
+      {
+        "id": 647368,
+        "url": "http://www.tvmaze.com/episodes/647368/gotham-2x17-wrath-of-the-villains-into-the-woods",
+        "name": "Wrath of the Villains: Into the Woods",
+        "season": 2,
+        "number": 17,
+        "airdate": "2016-04-11",
+        "airtime": "20:00",
+        "airstamp": "2016-04-12T00:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/51/127709.jpg",
+          "original": "http://static.tvmaze.com/uploads/images/original_untouched/51/127709.jpg"
+        },
+        "summary": "<p>Jim discovers who framed him, but it may cost him his life. Meanwhile, Alfred gives Bruce an ultimatum, and Hugo releases Barbara from Arkham.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/647368" }
+        }
+      },
+      {
+        "id": 647369,
+        "url": "http://www.tvmaze.com/episodes/647369/gotham-2x18-wrath-of-the-villains-pinewood",
+        "name": "Wrath of the Villains: Pinewood",
+        "season": 2,
+        "number": 18,
+        "airdate": "2016-04-18",
+        "airtime": "20:00",
+        "airstamp": "2016-04-19T00:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/52/131696.jpg",
+          "original": "http://static.tvmaze.com/uploads/images/original_untouched/52/131696.jpg"
+        },
+        "summary": "<p>Bruce decrypts some of his father's computer files and learns of the mysterious Pinewood Project. While he and Alfred investigate, Barbara offers to help Jim find the mysterious Philosopher.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/647369" }
+        }
+      },
+      {
+        "id": 647370,
+        "url": "http://www.tvmaze.com/episodes/647370/gotham-2x19-wrath-of-the-villains-azrael",
+        "name": "Wrath of the Villains: Azrael",
+        "season": 2,
+        "number": 19,
+        "airdate": "2016-05-02",
+        "airtime": "20:00",
+        "airstamp": "2016-05-03T00:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/55/139289.jpg",
+          "original": "http://static.tvmaze.com/uploads/images/original_untouched/55/139289.jpg"
+        },
+        "summary": "<p>Hugo figures out the key to controlling the resurrected Theo and sends him forth as... Azrael. Meanwhile, Jim tries to convince Barnes that Hugo is responsible for creating monsters, and Bruce begins to learn that the law is insufficient to deal with the threats to Gotham.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/647370" }
+        }
+      },
+      {
+        "id": 647371,
+        "url": "http://www.tvmaze.com/episodes/647371/gotham-2x20-wrath-of-the-villains-unleashed",
+        "name": "Wrath of the Villains: Unleashed",
+        "season": 2,
+        "number": 20,
+        "airdate": "2016-05-09",
+        "airtime": "20:00",
+        "airstamp": "2016-05-10T00:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/56/142483.jpg",
+          "original": "http://static.tvmaze.com/uploads/images/original_untouched/56/142483.jpg"
+        },
+        "summary": "<p>Bruce convinces Selina to break into Arkham and rescue her friend Bridgit, and along the way Selina encounters an escaping Edward. Meanwhile, the manhunt for Azrael continues and Tabitha agrees to help Jim and Harvey track her brother down.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/647371" }
+        }
+      },
+      {
+        "id": 647372,
+        "url": "http://www.tvmaze.com/episodes/647372/gotham-2x21-wrath-of-the-villains-a-legion-of-horribles",
+        "name": "Wrath of the Villains: A Legion of Horribles",
+        "season": 2,
+        "number": 21,
+        "airdate": "2016-05-16",
+        "airtime": "20:00",
+        "airstamp": "2016-05-17T00:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/56/142480.jpg",
+          "original": "http://static.tvmaze.com/uploads/images/original_untouched/56/142480.jpg"
+        },
+        "summary": "<p>Bruce, Jim, and Lucius sneak into Arkham to try and find Selena, but Hugo realizes what they're up to and captures them. Meanwhile, Selena offers herself as a servant to Firefly, and Alfred turns to Harvey for help.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/647372" }
+        }
+      },
+      {
+        "id": 647373,
+        "url": "http://www.tvmaze.com/episodes/647373/gotham-2x22-wrath-of-the-villains-transference",
+        "name": "Wrath of the Villains: Transference",
+        "season": 2,
+        "number": 22,
+        "airdate": "2016-05-23",
+        "airtime": "20:00",
+        "airstamp": "2016-05-24T00:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/59/148353.jpg",
+          "original": "http://static.tvmaze.com/uploads/images/original_untouched/59/148353.jpg"
+        },
+        "summary": "<p>Hugo is ordered to destroy Arkham to cover the council's tracks, but Fish's efforts to escape complicate things. Meanwhile, Basil distracts Harvey from investigating Arkham, and Bruce and Lucius fail Edward's quiz.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/647373" }
+        }
+      },
+      {
+        "id": 835518,
+        "url": "http://www.tvmaze.com/episodes/835518/gotham-3x01-mad-city-better-to-reign-in-hell",
+        "name": "Mad City: Better to Reign in Hell...",
+        "season": 3,
+        "number": 1,
+        "airdate": "2016-09-19",
+        "airtime": "20:00",
+        "airstamp": "2016-09-20T00:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/75/189324.jpg",
+          "original": "http://static.tvmaze.com/uploads/images/original_untouched/75/189324.jpg"
+        },
+        "summary": "<p>Six months after the Indian Hill escape, Jim is working as a bounty hunter in Gotham. He teams up with reporter Valerie Vale to track down Fish and her new gang of escapees... all of whom have superpowers. Meanwhile, Bruce and Alfred return from Switzerland to confront the Wayne Enterprises board, and Selina falls in with the wrong crowd.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/835518" }
+        }
+      },
+      {
+        "id": 844325,
+        "url": "http://www.tvmaze.com/episodes/844325/gotham-3x02-mad-city-burn-the-witch",
+        "name": "Mad City: Burn the Witch",
+        "season": 3,
+        "number": 2,
+        "airdate": "2016-09-26",
+        "airtime": "20:00",
+        "airstamp": "2016-09-27T00:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/76/192058.jpg",
+          "original": "http://static.tvmaze.com/uploads/images/original_untouched/76/192058.jpg"
+        },
+        "summary": "<p>Fish takes control of Harvey and tracks down Hugo, demanding a cure to her condition. Meanwhile, Oswald rallies the citizens against the \"monsters\" in their midst, and Jim and Barnes are forced to ally to save Harvey.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/844325" }
+        }
+      },
+      {
+        "id": 847411,
+        "url": "http://www.tvmaze.com/episodes/847411/gotham-3x03-mad-city-look-into-my-eyes",
+        "name": "Mad City: Look Into My Eyes",
+        "season": 3,
+        "number": 3,
+        "airdate": "2016-10-03",
+        "airtime": "20:00",
+        "airstamp": "2016-10-04T00:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/78/195625.jpg",
+          "original": "http://static.tvmaze.com/uploads/images/original_untouched/78/195625.jpg"
+        },
+        "summary": "<p>Hypnotist Jervis Tetch comes to Gotham looking for his sister Alice, and hires Jim to find her. However, Jervis has some secrets of his own that he doesn't want anyone to find out. Meanwhile, Oswald announces his candidacy for mayor while Jim meets Lee's fiance.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/847411" }
+        }
+      },
+      {
+        "id": 937067,
+        "url": "http://www.tvmaze.com/episodes/937067/gotham-3x04-mad-city-new-day-rising",
+        "name": "Mad City: New Day Rising",
+        "season": 3,
+        "number": 4,
+        "airdate": "2016-10-10",
+        "airtime": "20:00",
+        "airstamp": "2016-10-11T00:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/79/198519.jpg",
+          "original": "http://static.tvmaze.com/uploads/images/original_untouched/79/198519.jpg"
+        },
+        "summary": "<p>Bruce and Alfred look for the missing Five, and the trail leads to Selina. Meanwhile, Jervis goes to extreme lengths to recover his sister Alice, and Edward takes extreme steps to convince Oswald how popular he is.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/937067" }
+        }
+      },
+      {
+        "id": 942321,
+        "url": "http://www.tvmaze.com/episodes/942321/gotham-3x05-mad-city-anything-for-you",
+        "name": "Mad City: Anything for You",
+        "season": 3,
+        "number": 5,
+        "airdate": "2016-10-17",
+        "airtime": "20:00",
+        "airstamp": "2016-10-18T00:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/80/201834.jpg",
+          "original": "http://static.tvmaze.com/uploads/images/original_untouched/80/201834.jpg"
+        },
+        "summary": "<p>Bruce asks Jim to help find Ivy, while Oswald finds his mayorship threatened when the Red Hood Gang launch a new series of attacks.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/942321" }
+        }
+      },
+      {
+        "id": 891496,
+        "url": "http://www.tvmaze.com/episodes/891496/gotham-3x06-mad-city-follow-the-white-rabbit",
+        "name": "Mad City: Follow the White Rabbit",
+        "season": 3,
+        "number": 6,
+        "airdate": "2016-10-24",
+        "airtime": "20:00",
+        "airstamp": "2016-10-25T00:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/81/204693.jpg",
+          "original": "http://static.tvmaze.com/uploads/images/original_untouched/81/204693.jpg"
+        },
+        "summary": "<p>Jervis forces Jim to choose between the two women that he loves, leading Jim through a maze of tests to determine if he can pick who will live and who will die.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/891496" }
+        }
+      },
+      {
+        "id": 954839,
+        "url": "http://www.tvmaze.com/episodes/954839/gotham-3x07-mad-city-red-queen",
+        "name": "Mad City: Red Queen",
+        "season": 3,
+        "number": 7,
+        "airdate": "2016-10-31",
+        "airtime": "20:00",
+        "airstamp": "2016-11-01T00:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/82/207459.jpg",
+          "original": "http://static.tvmaze.com/uploads/images/original_untouched/82/207459.jpg"
+        },
+        "summary": "<p>Jervis doses Jim with a powerful hallucinogenic that will burn out his brain, and forces Jim to face some hard truths. Meanwhile, Oswald tries to break up Edward and Isabella, and Bruce has Selina over for dinner.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/954839" }
+        }
+      },
+      {
+        "id": 957999,
+        "url": "http://www.tvmaze.com/episodes/957999/gotham-3x08-mad-city-blood-rush",
+        "name": "Mad City: Blood Rush",
+        "season": 3,
+        "number": 8,
+        "airdate": "2016-11-07",
+        "airtime": "20:00",
+        "airstamp": "2016-11-08T01:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/83/209851.jpg",
+          "original": "http://static.tvmaze.com/uploads/images/original_untouched/83/209851.jpg"
+        },
+        "summary": "<p>The virus begins to consume Barnes, bringing out his inner rage at the guilty. Meanwhile, Jim's first case after he rejoins the GCPD involves him trying to find a killer... unaware that his captain is responsible. And Isabella puts Edward's sanity to the test, unaware that Oswald has his own plans.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/957999" }
+        }
+      },
+      {
+        "id": 974744,
+        "url": "http://www.tvmaze.com/episodes/974744/gotham-3x09-mad-city-the-executioner",
+        "name": "Mad City: The Executioner",
+        "season": 3,
+        "number": 9,
+        "airdate": "2016-11-14",
+        "airtime": "20:00",
+        "airstamp": "2016-11-15T01:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/84/212199.jpg",
+          "original": "http://static.tvmaze.com/uploads/images/original_untouched/84/212199.jpg"
+        },
+        "summary": "<p>Barnes attempts to recruit Jim to his new crusade. Meanwhile, Edward realizes that someone murdered Isabella and confronts Oswald with what he's learned. On the streets, Ivy turns to Selina and Bruce for help after she steals a necklace.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/974744" }
+        }
+      },
+      {
+        "id": 979225,
+        "url": "http://www.tvmaze.com/episodes/979225/gotham-3x10-mad-city-time-bomb",
+        "name": "Mad City: Time Bomb",
+        "season": 3,
+        "number": 10,
+        "airdate": "2016-11-21",
+        "airtime": "20:00",
+        "airstamp": "2016-11-22T01:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/85/214457.jpg",
+          "original": "http://static.tvmaze.com/uploads/images/original_untouched/85/214457.jpg"
+        },
+        "summary": "<p>Someone tries to kill Carmine, but Jim suspects that there's more going on. Meanwhile, Edward goes after the man he believes killed Isabella, and Bruce makes a deal with a faction opposed to the Court of Owls.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/979225" }
+        }
+      },
+      {
+        "id": 979802,
+        "url": "http://www.tvmaze.com/episodes/979802/gotham-3x11-mad-city-beware-the-green-eyed-monster",
+        "name": "Mad City: Beware the Green-Eyed Monster",
+        "season": 3,
+        "number": 11,
+        "airdate": "2016-11-28",
+        "airtime": "20:00",
+        "airstamp": "2016-11-29T01:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/87/217818.jpg",
+          "original": "http://static.tvmaze.com/uploads/images/original_untouched/87/217818.jpg"
+        },
+        "summary": "<p>Barbara forges a fragile alliance to gain control of the Gotham underworld.. Meanwhile, Jim suspects that Mario is infected with the Tetch virus and tries to stop his marriage to Lee before it's too late.And Bruce, Selina, and Alfred break into the Court of Owls' building to acquire the weapon they need to destroy the organization.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/979802" }
+        }
+      },
+      {
+        "id": 985389,
+        "url": "http://www.tvmaze.com/episodes/985389/gotham-3x12-mad-city-ghosts",
+        "name": "Mad City: Ghosts",
+        "season": 3,
+        "number": 12,
+        "airdate": "2017-01-16",
+        "airtime": "20:00",
+        "airstamp": "2017-01-17T01:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/93/234345.jpg",
+          "original": "http://static.tvmaze.com/uploads/images/original_untouched/93/234345.jpg"
+        },
+        "summary": "<p>Carmine orders a hit on Jim after Jim is forced to kill Mario. Meanwhile, a follower plans the resurrection of one of Gotham's greatest criminals, and Oswald's facade starts to slip after he sees his father's ghost.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/985389" }
+        }
+      },
+      {
+        "id": 1006887,
+        "url": "http://www.tvmaze.com/episodes/1006887/gotham-3x13-mad-city-smile-like-you-mean-it",
+        "name": "Mad City: Smile Like You Mean It",
+        "season": 3,
+        "number": 13,
+        "airdate": "2017-01-23",
+        "airtime": "20:00",
+        "airstamp": "2017-01-24T01:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/94/236453.jpg",
+          "original": "http://static.tvmaze.com/uploads/images/original_untouched/94/236453.jpg"
+        },
+        "summary": "<p>When he's unable to resurrect Jerome, Dwight cuts off his face and tries to lead the cult. Meanwhile, Lee reveals a darker side, while Barbara and Tabitha continue to undermine Oswald while following Edward's plan.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/1006887" }
+        }
+      },
+      {
+        "id": 1018591,
+        "url": "http://www.tvmaze.com/episodes/1018591/gotham-3x14-mad-city-the-gentle-art-of-making-enemies",
+        "name": "Mad City: The Gentle Art of Making Enemies",
+        "season": 3,
+        "number": 14,
+        "airdate": "2017-01-30",
+        "airtime": "20:00",
+        "airstamp": "2017-01-31T01:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/94/237347.jpg",
+          "original": "http://static.tvmaze.com/uploads/images/original_untouched/94/237347.jpg"
+        },
+        "summary": "<p>Jerome and his acolytes run wild across a darkened Gotham, and Jerome abducts Bruce. Meanwhile, Oswald confronts Edward and the Court begins its move to take control of the city.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/1018591" }
+        }
+      },
+      {
+        "id": 1039047,
+        "url": "http://www.tvmaze.com/episodes/1039047/gotham-3x15-heroes-rise-how-the-riddler-got-his-name",
+        "name": "Heroes Rise: How the Riddler Got His Name",
+        "season": 3,
+        "number": 15,
+        "airdate": "2017-04-24",
+        "airtime": "20:00",
+        "airstamp": "2017-04-25T00:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/108/271662.jpg",
+          "original": "http://static.tvmaze.com/uploads/images/original_untouched/108/271662.jpg"
+        },
+        "summary": "<p>Edward goes on a killing spree to discover who he is without Oswald. Meanwhile, Frank tells Jim about the Court of Owls, and Bruce tries to reconnect with Selina.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/1039047" }
+        }
+      },
+      {
+        "id": 1044446,
+        "url": "http://www.tvmaze.com/episodes/1044446/gotham-3x16-heroes-rise-these-delicate-and-dark-obsessions",
+        "name": "Heroes Rise: These Delicate and Dark Obsessions",
+        "season": 3,
+        "number": 16,
+        "airdate": "2017-05-01",
+        "airtime": "20:00",
+        "airstamp": "2017-05-02T00:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/110/275022.jpg",
+          "original": "http://static.tvmaze.com/uploads/images/original_untouched/110/275022.jpg"
+        },
+        "summary": "<p>Jim discovers who ordered his father killed. Meanwhile, Oswald learns the loyalty of his minions, and a Shaman tries to help Bruce overcome the pain of his parents' deaths.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/1044446" }
+        }
+      },
+      {
+        "id": 1046842,
+        "url": "http://www.tvmaze.com/episodes/1046842/gotham-3x17-heroes-rise-the-primal-riddle",
+        "name": "Heroes Rise: The Primal Riddle",
+        "season": 3,
+        "number": 17,
+        "airdate": "2017-05-08",
+        "airtime": "20:00",
+        "airstamp": "2017-05-09T00:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/110/277386.jpg",
+          "original": "http://static.tvmaze.com/uploads/images/original_untouched/110/277386.jpg"
+        },
+        "summary": "<p>Oswald gathers the first two members of his army of freaks. meanwhile, Edward sets out to solve the riddle of the Court, and Bruce-2 warns Selina about the city's coming demise.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/1046842" }
+        }
+      },
+      {
+        "id": 1046843,
+        "url": "http://www.tvmaze.com/episodes/1046843/gotham-3x18-heroes-rise-light-the-wick",
+        "name": "Heroes Rise: Light the Wick",
+        "season": 3,
+        "number": 18,
+        "airdate": "2017-05-15",
+        "airtime": "20:00",
+        "airstamp": "2017-05-16T00:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/112/280108.jpg",
+          "original": "http://static.tvmaze.com/uploads/images/original_untouched/112/280108.jpg"
+        },
+        "summary": "<p>The Court puts Hugo to work weaponizing the Tetch virus. Meanwhile, Jim tries to learn what the Court plans for Gotham, and the Shaman offers Bruce a release from his emotional pain.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/1046843" }
+        }
+      },
+      {
+        "id": 1046844,
+        "url": "http://www.tvmaze.com/episodes/1046844/gotham-3x19-heroes-rise-all-will-be-judged",
+        "name": "Heroes Rise: All Will Be Judged",
+        "season": 3,
+        "number": 19,
+        "airdate": "2017-05-22",
+        "airtime": "20:00",
+        "airstamp": "2017-05-23T00:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/112/281148.jpg",
+          "original": "http://static.tvmaze.com/uploads/images/original_untouched/112/281148.jpg"
+        },
+        "summary": "<p>Jim and Harvey discover that Kathryn isn't the Court's leader. Meanwhile, Alfred learns that Bruce isn't who he believed him to be, and Lee realizes who is truly responsible for Mario's death.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/1046844" }
+        }
+      },
+      {
+        "id": 1046845,
+        "url": "http://www.tvmaze.com/episodes/1046845/gotham-3x20-heroes-rise-pretty-hate-machine",
+        "name": "Heroes Rise: Pretty Hate Machine",
+        "season": 3,
+        "number": 20,
+        "airdate": "2017-05-29",
+        "airtime": "20:00",
+        "airstamp": "2017-05-30T00:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/112/281146.jpg",
+          "original": "http://static.tvmaze.com/uploads/images/original_untouched/112/281146.jpg"
+        },
+        "summary": "<p>Edward puts pressure on Selina to find out where Oswald is hiding. Meanwhile, Jim confronts the infected Lee, who sets him up so that he must make a terrible choice if he wants to save the citizens of Gotham from the Tetch virus.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/1046845" }
+        }
+      },
+      {
+        "id": 1046846,
+        "url": "http://www.tvmaze.com/episodes/1046846/gotham-3x21-heroes-rise-destiny-calling",
+        "name": "Heroes Rise: Destiny Calling",
+        "season": 3,
+        "number": 21,
+        "airdate": "2017-06-05",
+        "airtime": "20:00",
+        "airstamp": "2017-06-06T00:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/115/288684.jpg",
+          "original": "http://static.tvmaze.com/uploads/images/original_untouched/115/288684.jpg"
+        },
+        "summary": "<p>Gotham descends into chaos after the spread of the virus. Jim fights for control as he and Harvey try to locate Lee. Meanwhile, Barbara convinces Edward to help her take control of Gotham by obtaining the antidote, only to find Fish and Oswald opposing her.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/1046846" }
+        }
+      },
+      {
+        "id": 1044447,
+        "url": "http://www.tvmaze.com/episodes/1044447/gotham-3x22-heroes-rise-heavydirtysoul",
+        "name": "Heroes Rise: Heavydirtysoul",
+        "season": 3,
+        "number": 22,
+        "airdate": "2017-06-05",
+        "airtime": "21:00",
+        "airstamp": "2017-06-06T01:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/115/288695.jpg",
+          "original": "http://static.tvmaze.com/uploads/images/original_untouched/115/288695.jpg"
+        },
+        "summary": "<p>Bruce kills Alfred and Ra's promises that they will meet again. Meanwhile, Jim and Harvey make a desperate trade with Edward to get what they need for the antidote, and Butch and Tabitha turn against Barbara.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/1044447" }
+        }
+      },
+      {
+        "id": 1208074,
+        "url": "http://www.tvmaze.com/episodes/1208074/gotham-4x01-a-dark-knight-pax-penguina",
+        "name": "A Dark Knight: Pax Penguina",
+        "season": 4,
+        "number": 1,
+        "airdate": "2017-09-21",
+        "airtime": "20:00",
+        "airstamp": "2017-09-22T00:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/128/321423.jpg",
+          "original": "http://static.tvmaze.com/uploads/images/original_untouched/128/321423.jpg"
+        },
+        "summary": "<p>Oswald controls Gotham by handing out licenses to criminals and lowering the crime rate. Meanwhile, Bruce continues his field training by preying on criminals, and Harvey tells Jim in no uncertain terms to let the licensed criminals go free. And a new gang tries to undermine Oswald by breaking Jonathan Crane out of Arkham and using his father's fear gas formula.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/1208074" }
+        }
+      },
+      {
+        "id": 1271684,
+        "url": "http://www.tvmaze.com/episodes/1271684/gotham-4x02-a-dark-knight-the-fear-reaper",
+        "name": "A Dark Knight: The Fear Reaper",
+        "season": 4,
+        "number": 2,
+        "airdate": "2017-09-28",
+        "airtime": "20:00",
+        "airstamp": "2017-09-29T00:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/129/323320.jpg",
+          "original": "http://static.tvmaze.com/uploads/images/original_untouched/129/323320.jpg"
+        },
+        "summary": "<p>Bruce's efforts in fighting crime prove less than successful until Lucius steps in. Meanwhile, Jonathan Crane goes on a rampage through Arkham as the Scarecrow, and Jim goes in alone to stop him. Elsewhere, Tabitha and Selina receive an invitation to join a new criminal enterprise.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/1271684" }
+        }
+      },
+      {
+        "id": 1271685,
+        "url": "http://www.tvmaze.com/episodes/1271685/gotham-4x03-a-dark-knight-they-who-hide-behind-masks",
+        "name": "A Dark Knight: They Who Hide Behind Masks",
+        "season": 4,
+        "number": 3,
+        "airdate": "2017-10-05",
+        "airtime": "20:00",
+        "airstamp": "2017-10-06T00:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/130/325442.jpg",
+          "original": "http://static.tvmaze.com/uploads/images/original_untouched/130/325442.jpg"
+        },
+        "summary": "<p>Jim acquires an unexpected ally when he travels to Miami to get Carmine to help him against Oswald. Meanwhile, Oswald ships an antique knife into the city and several interested parties seek to obtain it.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/1271685" }
+        }
+      },
+      {
+        "id": 1271686,
+        "url": "http://www.tvmaze.com/episodes/1271686/gotham-4x04-a-dark-knight-the-demons-head",
+        "name": "A Dark Knight: The Demon's Head",
+        "season": 4,
+        "number": 4,
+        "airdate": "2017-10-12",
+        "airtime": "20:00",
+        "airstamp": "2017-10-13T00:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/131/327651.jpg",
+          "original": "http://static.tvmaze.com/uploads/images/original_untouched/131/327651.jpg"
+        },
+        "summary": "<p>Bruce goes to a museum curator for information on the knife, but the man is soon killed and his grandson goes on the run. Meanwhile, Edward tries to come up with a riddle worthy of his nemesis, but things don't go as planned.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/1271686" }
+        }
+      },
+      {
+        "id": 1271687,
+        "url": "http://www.tvmaze.com/episodes/1271687/gotham-4x05-a-dark-knight-the-blades-path",
+        "name": "A Dark Knight: The Blade's Path",
+        "season": 4,
+        "number": 5,
+        "airdate": "2017-10-19",
+        "airtime": "20:00",
+        "airstamp": "2017-10-20T00:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/131/329781.jpg",
+          "original": "http://static.tvmaze.com/uploads/images/original_untouched/131/329781.jpg"
+        },
+        "summary": "<p>After six months in a coma, Butch is exposed to Indian Hills chemicals and transformed into a man-monster. Meanwhile, Bruce seeks out Ra's, and Sofia tries to make amends with Oswald.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/1271687" }
+        }
+      },
+      {
+        "id": 1271688,
+        "url": "http://www.tvmaze.com/episodes/1271688/gotham-4x06-a-dark-knight-hog-day-afternoon",
+        "name": "A Dark Knight: Hog Day Afternoon",
+        "season": 4,
+        "number": 6,
+        "airdate": "2017-10-26",
+        "airtime": "20:00",
+        "airstamp": "2017-10-27T00:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/132/331916.jpg",
+          "original": "http://static.tvmaze.com/uploads/images/original_untouched/132/331916.jpg"
+        },
+        "summary": "<p>A serial killer goes after crooked cops, putting pig masks on their corpses. Jim and Harvey hunt him down once they realize who his targets are. Meanwhile, Oswald suspects that Sofia is preparing to betray him, and Edward asks Lee for help.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/1271688" }
+        }
+      },
+      {
+        "id": 1274838,
+        "url": "http://www.tvmaze.com/episodes/1274838/gotham-4x07-a-dark-knight-a-day-in-the-narrows",
+        "name": "A Dark Knight: A Day in the Narrows",
+        "season": 4,
+        "number": 7,
+        "airdate": "2017-11-02",
+        "airtime": "20:00",
+        "airstamp": "2017-11-03T00:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/133/334317.jpg",
+          "original": "http://static.tvmaze.com/uploads/images/original_untouched/133/334317.jpg"
+        },
+        "summary": "<p>The hunt continues for Pyg, who abducts three cops. Meanwhile, Bruce receives an invitation from a former classmate, and Selina sets out to prove she and Tabitha can still serve a role in Barbara's organization.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/1274838" }
+        }
+      },
+      {
+        "id": 1333560,
+        "url": "http://www.tvmaze.com/episodes/1333560/gotham-4x08-a-dark-knight-stop-hitting-yourself",
+        "name": "A Dark Knight: Stop Hitting Yourself",
+        "season": 4,
+        "number": 8,
+        "airdate": "2017-11-09",
+        "airtime": "20:00",
+        "airstamp": "2017-11-10T01:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/134/336175.jpg",
+          "original": "http://static.tvmaze.com/uploads/images/original_untouched/134/336175.jpg"
+        },
+        "summary": "<p>When Oswald learns that Edward is mocking him on stage at Cherry's, he tells the Sirens to bring Edward to him. However, Grundy protects Edward until Tabitha reminds him of who he was. Meanwhile, Jim receives an offer from the mayor and has to consider whether to go against Harvey or not... and what it will cost him.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/1333560" }
+        }
+      },
+      {
+        "id": 1333561,
+        "url": "http://www.tvmaze.com/episodes/1333561/gotham-4x09-a-dark-knight-let-them-eat-pie",
+        "name": "A Dark Knight: Let Them Eat Pie",
+        "season": 4,
+        "number": 9,
+        "airdate": "2017-11-16",
+        "airtime": "20:00",
+        "airstamp": "2017-11-17T01:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/135/338529.jpg",
+          "original": "http://static.tvmaze.com/uploads/images/original_untouched/135/338529.jpg"
+        },
+        "summary": "<p>Professor Pyg continues to torment Gotham city, involving Jim Gordon whenever possible. Sofia and Penguin get ready for a fundraiser for the orphanage, and things don't go as planned when Professor Pyg shows up as the chef. Meanwhile, Bruce's partying gets in the way of his relationship with Alfred.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/1333561" }
+        }
+      },
+      {
+        "id": 1333562,
+        "url": "http://www.tvmaze.com/episodes/1333562/gotham-4x10-a-dark-knight-things-that-go-boom",
+        "name": "A Dark Knight: Things That Go Boom",
+        "season": 4,
+        "number": 10,
+        "airdate": "2017-11-30",
+        "airtime": "20:00",
+        "airstamp": "2017-12-01T01:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/137/342561.jpg",
+          "original": "http://static.tvmaze.com/uploads/images/original_untouched/137/342561.jpg"
+        },
+        "summary": "<p>After learning that Jim and Sofia are involved, Oswald prepares to torture Sofia for information about her plans. Meanwhile, Lee and Edward pay a visit to a gangster trying to move in on the Narrows.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/1333562" }
+        }
+      },
+      {
+        "id": 1340885,
+        "url": "http://www.tvmaze.com/episodes/1340885/gotham-4x11-a-dark-knight-queen-takes-knight",
+        "name": "A Dark Knight: Queen Takes Knight",
+        "season": 4,
+        "number": 11,
+        "airdate": "2017-12-07",
+        "airtime": "20:00",
+        "airstamp": "2017-12-08T01:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/137/344499.jpg",
+          "original": "http://static.tvmaze.com/uploads/images/original_untouched/137/344499.jpg"
+        },
+        "summary": "<p>Jim tries to stop the war between Oswald and Sofia, and discovers that the only way to do so is to take Sofia's side. Meanwhile, Tabitha attempts to beat Grundy's memories of Butch back into Grundy's head, and Alfred and Bruce come to blows.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/1340885" }
+        }
+      },
+      {
+        "id": 1333563,
+        "url": "http://www.tvmaze.com/episodes/1333563/gotham-4x12-a-dark-knight-pieces-of-a-broken-mirror",
+        "name": "A Dark Knight: Pieces of a Broken Mirror",
+        "season": 4,
+        "number": 12,
+        "airdate": "2018-03-01",
+        "airtime": "20:00",
+        "airstamp": "2018-03-02T01:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/147/368694.jpg",
+          "original": "http://static.tvmaze.com/uploads/images/original_untouched/147/368694.jpg"
+        },
+        "summary": "<p>A new killer, the Toy Maker, strikes at Lee's Narrows meeting. While Jim tries to determine the killer's next target and who hired him, Selina meets two old friends. Meanwhile, Alfred makes a new friend while wandering the Narrows.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/1333563" }
+        }
+      },
+      {
+        "id": 1356801,
+        "url": "http://www.tvmaze.com/episodes/1356801/gotham-4x13-a-dark-knight-a-beautiful-darkness",
+        "name": "A Dark Knight: A Beautiful Darkness",
+        "season": 4,
+        "number": 13,
+        "airdate": "2018-03-08",
+        "airtime": "20:00",
+        "airstamp": "2018-03-09T01:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/148/370725.jpg",
+          "original": "http://static.tvmaze.com/uploads/images/original_untouched/148/370725.jpg"
+        },
+        "summary": "<p>Ivy learns of a secret project at WayneTech that will let her avenge the murdered plants of Gotham, and gives Bruce a dose of her hallucinogenic poison. While Bruce sees his real self, jim tries to track down Ivy. At Arkham, Jerome tries to convince Oswald to cheer up.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/1356801" }
+        }
+      },
+      {
+        "id": 1356808,
+        "url": "http://www.tvmaze.com/episodes/1356808/gotham-4x14-a-dark-knight-reunion",
+        "name": "A Dark Knight: Reunion",
+        "season": 4,
+        "number": 14,
+        "airdate": "2018-03-15",
+        "airtime": "20:00",
+        "airstamp": "2018-03-16T00:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/149/372857.jpg",
+          "original": "http://static.tvmaze.com/uploads/images/original_untouched/149/372857.jpg"
+        },
+        "summary": "<p>Ivy prepares to take revenge for the plants and for herself, and her first target is Harvey. While Selina prepares to confront her former friend, Bruce asks Alfred to help him while Edward comes up with a way to destroy Riddler once and for all.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/1356808" }
+        }
+      },
+      {
+        "id": 1360943,
+        "url": "http://www.tvmaze.com/episodes/1360943/gotham-4x15-a-dark-knight-the-sinking-ship-the-grand-applause",
+        "name": "A Dark Knight: The Sinking Ship the Grand Applause",
+        "season": 4,
+        "number": 15,
+        "airdate": "2018-03-22",
+        "airtime": "20:00",
+        "airstamp": "2018-03-23T00:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/150/375251.jpg",
+          "original": "http://static.tvmaze.com/uploads/images/original_untouched/150/375251.jpg"
+        },
+        "summary": "<p>Jim and Harvey try to track down Oswald, who has information on the man who can provide them with evidence to tie Sofia to Pyg. Meanwhile, Riddler and Oswald turn to Lee and Grundy for help, and Selina asks Bruce for help returning some stolen jewelry.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/1360943" }
+        }
+      },
+      {
+        "id": 1360944,
+        "url": "http://www.tvmaze.com/episodes/1360944/gotham-4x16-a-dark-knight-one-of-my-three-soups",
+        "name": "A Dark Knight: One of My Three Soups",
+        "season": 4,
+        "number": 16,
+        "airdate": "2018-03-29",
+        "airtime": "20:00",
+        "airstamp": "2018-03-30T00:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/151/377845.jpg",
+          "original": "http://static.tvmaze.com/uploads/images/original_untouched/151/377845.jpg"
+        },
+        "summary": "<p>Jerome escapes from Arkham with Mad Hatter and Scarecrow, and goes after his uncle while Jarvis commands thousands to kill themselves at midnight. Meanwhile, Bruce searches for Jerome and the League of Shadows confront Barbara.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/1360944" }
+        }
+      },
+      {
+        "id": 1392977,
+        "url": "http://www.tvmaze.com/episodes/1392977/gotham-4x17-a-dark-knight-mandatory-brunch-meeting",
+        "name": "A Dark Knight: Mandatory Brunch Meeting",
+        "season": 4,
+        "number": 17,
+        "airdate": "2018-04-05",
+        "airtime": "20:00",
+        "airstamp": "2018-04-06T00:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/151/379431.jpg",
+          "original": "http://static.tvmaze.com/uploads/images/original_untouched/151/379431.jpg"
+        },
+        "summary": "<p>While Jim and Harvey chase after Jerome and try to find his target, Lee challenges Riddler to a duel of riddles. Meanwhile, Oswald tracks down Butch and offers him a cure to his monstrous condition.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/1392977" }
+        }
+      },
+      {
+        "id": 1392978,
+        "url": "http://www.tvmaze.com/episodes/1392978/gotham-4x18-a-dark-knight-thats-entertainment",
+        "name": "A Dark Knight: That's Entertainment",
+        "season": 4,
+        "number": 18,
+        "airdate": "2018-04-12",
+        "airtime": "20:00",
+        "airstamp": "2018-04-13T00:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/152/381373.jpg",
+          "original": "http://static.tvmaze.com/uploads/images/original_untouched/152/381373.jpg"
+        },
+        "summary": "<p>Jerome plans his revenge against Gotham, and lies further plans in case of his death. Meanwhile, Barbara and Tabitha come to a parting of the ways, and Alfred helps Bruce celebrate his birthday.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/1392978" }
+        }
+      },
+      {
+        "id": 1392979,
+        "url": "http://www.tvmaze.com/episodes/1392979/gotham-4x19-a-dark-knight-to-our-deaths-and-beyond",
+        "name": "A Dark Knight: To Our Deaths and Beyond",
+        "season": 4,
+        "number": 19,
+        "airdate": "2018-04-19",
+        "airtime": "20:00",
+        "airstamp": "2018-04-20T00:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/153/383381.jpg",
+          "original": "http://static.tvmaze.com/uploads/images/original_untouched/153/383381.jpg"
+        },
+        "summary": "<p>The League uses Bruce's blood to bring Ra's back to life. Meanwhile, Oswald advises Riddler to turn against Lee, who is giving the money from the bank robberies to the people of the Narrows.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/1392979" }
+        }
+      },
+      {
+        "id": 1412084,
+        "url": "http://www.tvmaze.com/episodes/1412084/gotham-4x20-a-dark-knight-that-old-corpse",
+        "name": "A Dark Knight: That Old Corpse",
+        "season": 4,
+        "number": 20,
+        "airdate": "2018-05-03",
+        "airtime": "20:00",
+        "airstamp": "2018-05-04T00:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/154/386922.jpg",
+          "original": "http://static.tvmaze.com/uploads/images/original_untouched/154/386922.jpg"
+        },
+        "summary": "<p>Jerome sends his followers a message from beyond the grave, and they hold a wake in the GCPD. Meanwhile, Jeremiah shows Bruce his new \"clean\" generator, and Butch grows impatient with Oswald's failure to find him a cure for his condition.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/1412084" }
+        }
+      },
+      {
+        "id": 1422624,
+        "url": "http://www.tvmaze.com/episodes/1422624/gotham-4x21-a-dark-knight-one-bad-day",
+        "name": "A Dark Knight: One Bad Day",
+        "season": 4,
+        "number": 21,
+        "airdate": "2018-05-10",
+        "airtime": "20:00",
+        "airstamp": "2018-05-11T00:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/155/388389.jpg",
+          "original": "http://static.tvmaze.com/uploads/images/original_untouched/155/388389.jpg"
+        },
+        "summary": "<p>Jeremiah carries out his plan to destroy Gotham, while Lee and Riddler find Jim and tend to his injuries. Meanwhile, Oswald senses an opportunity and convinces Barbara and Tabitha to help him.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/1422624" }
+        }
+      },
+      {
+        "id": 1422374,
+        "url": "http://www.tvmaze.com/episodes/1422374/gotham-4x22-a-dark-knight-no-mans-land",
+        "name": "A Dark Knight: No Man's Land",
+        "season": 4,
+        "number": 22,
+        "airdate": "2018-05-17",
+        "airtime": "20:00",
+        "airstamp": "2018-05-18T00:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/155/389918.jpg",
+          "original": "http://static.tvmaze.com/uploads/images/original_untouched/155/389918.jpg"
+        },
+        "summary": "<p>Ra's and Jeremiah join forces to destroy Gotham and recreate Bruce. Meanwhile, Jim faces off with the military when the mayor orders Gotham's evacuation, and Strange finds a cure for Butch.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/1422374" }
+        }
+      },
+      {
+        "id": 1473788,
+        "url": "http://www.tvmaze.com/episodes/1473788/gotham-5x01-year-zero",
+        "name": "Year Zero",
+        "season": 5,
+        "number": 1,
+        "airdate": "2019-01-03",
+        "airtime": "20:00",
+        "airstamp": "2019-01-04T01:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/179/447845.jpg",
+          "original": "http://static.tvmaze.com/uploads/images/original_untouched/179/447845.jpg"
+        },
+        "summary": "<p>Two months after Gotham is cut off from the outside world, Jim and his men are trying to hold the precinct house; Oswald has secured City Hall; Barbara and Tabitha have opened up the Sirens' Club to women; Riddler is dealing with a split personality; and Selina undergoes an operation to save her life but will be paralyzed for life.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/1473788" }
+        }
+      },
+      {
+        "id": 1496308,
+        "url": "http://www.tvmaze.com/episodes/1496308/gotham-5x02-trespassers",
+        "name": "Trespassers",
+        "season": 5,
+        "number": 2,
+        "airdate": "2019-01-10",
+        "airtime": "20:00",
+        "airstamp": "2019-01-11T01:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/179/449113.jpg",
+          "original": "http://static.tvmaze.com/uploads/images/original_untouched/179/449113.jpg"
+        },
+        "summary": "<p>Riddler deals with a prisoner that he doesn't remember capturing, and Barbara offers Jim unexpected help. While Jim and Harvey rescue kids being held by the Soothsayers, Bruce tries to find a cure for Selina.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/1496308" }
+        }
+      },
+      {
+        "id": 1496309,
+        "url": "http://www.tvmaze.com/episodes/1496309/gotham-5x03-penguin-our-hero",
+        "name": "Penguin, Our Hero",
+        "season": 5,
+        "number": 3,
+        "airdate": "2019-01-17",
+        "airtime": "20:00",
+        "airstamp": "2019-01-18T01:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/180/450961.jpg",
+          "original": "http://static.tvmaze.com/uploads/images/original_untouched/180/450961.jpg"
+        },
+        "summary": "<p>While Selina and Bruce set out to find Jeremiah, Oswald gathers the gangs in an attack on Haven to get his people back.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/1496309" }
+        }
+      },
+      {
+        "id": 1496310,
+        "url": "http://www.tvmaze.com/episodes/1496310/gotham-5x04-ruin",
+        "name": "Ruin",
+        "season": 5,
+        "number": 4,
+        "airdate": "2019-01-24",
+        "airtime": "20:00",
+        "airstamp": "2019-01-25T01:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/181/453402.jpg",
+          "original": "http://static.tvmaze.com/uploads/images/original_untouched/181/453402.jpg"
+        },
+        "summary": "<p>Oswald offers Jim his help to bring in the person responsible for bombing Haven. Meanwhile, Lucius teams up with an unlikely partner to find out how the crime was committed, and Selina finds Jeremiah.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/1496310" }
+        }
+      },
+      {
+        "id": 1514689,
+        "url": "http://www.tvmaze.com/episodes/1514689/gotham-5x05-pena-dura",
+        "name": "Pena Dura",
+        "season": 5,
+        "number": 5,
+        "airdate": "2019-01-31",
+        "airtime": "20:00",
+        "airstamp": "2019-02-01T01:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/182/455354.jpg",
+          "original": "http://static.tvmaze.com/uploads/images/original_untouched/182/455354.jpg"
+        },
+        "summary": "<p>Secretary Walker sends Eduardo Durrance and his men in to help Jim clean up Gotham. Edward looks for the person who controlled him into bombing Haven, and turns to Oswald to find the person responsible.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/1514689" }
+        }
+      },
+      {
+        "id": 1514690,
+        "url": "http://www.tvmaze.com/episodes/1514690/gotham-5x06-13-stitches",
+        "name": "13 Stitches",
+        "season": 5,
+        "number": 6,
+        "airdate": "2019-02-14",
+        "airtime": "20:00",
+        "airstamp": "2019-02-15T01:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/183/459964.jpg",
+          "original": "http://static.tvmaze.com/uploads/images/original_untouched/183/459964.jpg"
+        },
+        "summary": "<p>Eduardo continues his search for Jim, who finds new allies and tries to get word out about Eduardo's and Walker's bombing of Haven. Oswald gets a new partner, and Lee makes a surprising reappearance.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/1514690" }
+        }
+      },
+      {
+        "id": 1571265,
+        "url": "http://www.tvmaze.com/episodes/1571265/gotham-5x07-ace-chemicals",
+        "name": "Ace Chemicals",
+        "season": 5,
+        "number": 7,
+        "airdate": "2019-02-21",
+        "airtime": "20:00",
+        "airstamp": "2019-02-22T01:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/184/462409.jpg",
+          "original": "http://static.tvmaze.com/uploads/images/original_untouched/184/462409.jpg"
+        },
+        "summary": "<p>Jeremiah lures Bruce to Wayne Manor to bond the two of them together in life... and death. Jim and Lee go looking for a criminal gang connected to a recent series of chemical deaths.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/1571265" }
+        }
+      },
+      {
+        "id": 1514691,
+        "url": "http://www.tvmaze.com/episodes/1514691/gotham-5x08-nothings-shocking",
+        "name": "Nothing's Shocking",
+        "season": 5,
+        "number": 8,
+        "airdate": "2019-02-28",
+        "airtime": "20:00",
+        "airstamp": "2019-03-01T01:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/186/465208.jpg",
+          "original": "http://static.tvmaze.com/uploads/images/original_untouched/186/465208.jpg"
+        },
+        "summary": "<p>Two former detectives are murdered in Sirens, and the clues lead to Harvey's old partner Dix... and Harvey himself. Edward and Oswald meet a new rival, and Barbara seeks assurances from Jim that she won't go to prison when the government arrives.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/1514691" }
+        }
+      },
+      {
+        "id": 1571266,
+        "url": "http://www.tvmaze.com/episodes/1571266/gotham-5x09-the-trial-of-jim-gordon",
+        "name": "The Trial of Jim Gordon",
+        "season": 5,
+        "number": 9,
+        "airdate": "2019-03-07",
+        "airtime": "20:00",
+        "airstamp": "2019-03-08T01:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/186/467424.jpg",
+          "original": "http://static.tvmaze.com/uploads/images/original_untouched/186/467424.jpg"
+        },
+        "summary": "<p>Jim is shoot while trying to negotiate a cease-fire with Gotham's gangs, and Harvey soon learns who is responsible. Bruce goes on a date with Selina, and Alfred gives Lee some advice on parenthood.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/1571266" }
+        }
+      },
+      {
+        "id": 1616272,
+        "url": "http://www.tvmaze.com/episodes/1616272/gotham-5x10-i-am-bane",
+        "name": "I Am Bane",
+        "season": 5,
+        "number": 10,
+        "airdate": "2019-03-21",
+        "airtime": "20:00",
+        "airstamp": "2019-03-22T00:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/189/472677.jpg",
+          "original": "http://static.tvmaze.com/uploads/images/original_untouched/189/472677.jpg"
+        },
+        "summary": "<p>The mutated Eduardo--Bane--kidnaps Bruce, Jim, and the general in charge of assessing Gotham's suitability for reunification, and his employer Walker reveals who she really is. Barbara turns to Lee for help when she goes into labor, and Edward and Oswald come looking for their \"partner\".</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/1616272" }
+        }
+      },
+      {
+        "id": 1616376,
+        "url": "http://www.tvmaze.com/episodes/1616376/gotham-5x11-they-did-what",
+        "name": "They Did What?",
+        "season": 5,
+        "number": 11,
+        "airdate": "2019-04-18",
+        "airtime": "20:00",
+        "airstamp": "2019-04-19T00:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/189/473729.jpg",
+          "original": "http://static.tvmaze.com/uploads/images/original_untouched/189/473729.jpg"
+        },
+        "summary": "<p>Jim and the others make their final stand against the invading army under the command of Bane. Nyssa holds Barbara and her baby captive, and Edward and Oswald consider whether to defend Gotham or leave it to its fate.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/1616376" }
+        }
+      },
+      {
+        "id": 1616387,
+        "url": "http://www.tvmaze.com/episodes/1616387/gotham-5x12-the-beginning",
+        "name": "The Beginning...",
+        "season": 5,
+        "number": 12,
+        "airdate": "2019-04-25",
+        "airtime": "20:00",
+        "airstamp": "2019-04-26T00:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/193/483423.jpg",
+          "original": "http://static.tvmaze.com/uploads/images/original_untouched/193/483423.jpg"
+        },
+        "summary": "<p>Ten years in the future, Gotham is preparing for the reopening of Wayne Tower and the return of Bruce Wayne to the city. However, four cases of C-4 go missing, Edward escapes from Arkham, Oswald is released from Blackgate, and Jim considers retiring as police commissioner. Will someone step up to be the savior that Gotham needs?</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/1616387" }
+        }
+      }
+    ]
+  }
+}
