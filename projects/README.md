@@ -1,3 +1,0 @@
-# Welcome, developer
-
-Currently converting Red Bulls into some cool open-source projects...
