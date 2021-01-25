@@ -1,8 +1,0 @@
-type Security {
-  symbol: String
-  securityName: String
-}
-
-type Query {
-  securities(symbol: String): Security # returns all securities or filtered by symbol
-}

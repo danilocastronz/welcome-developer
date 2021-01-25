@@ -1,36 +1,15 @@
-const { ApolloServer, gql } = require('apollo-server');
+const { ApolloServer } = require('apollo-server');
 
-// simple sample data
-const messages = [{
-    title: 'Welcome, Developers',
-    content: 'Hello from our GraphQL API!'
-}]
+// import resolvers
+const resolvers = require('./resolvers.ts');
 
-// define the schema type definition
-const typeDefs = gql`
-  # defines the data type to be consumed by the queries
-  type Message {
-    title: String
-    content: String
-  }
+// import schema
+const typeDefs = require('./schema.graphql.ts');
 
-  # defines the Query special type object
-  type Query {
-    messages: [Message]
-  }
-`;
-
-// create the resolvers
-const resolvers = {
-    Query: {
-        messages: () => messages,
-    },
-};
-
-// define the Apollo Server instance
+// instantiate the apollo server
 const server = new ApolloServer({ typeDefs, resolvers });
 
-// The `listen` method launches a web server.
+// start the graphql server
 server.listen().then(({ url }) => {
-    console.log(`GraphQL server running at ${url}`);
+  console.log(`Server ready at ${url}`);
 });
