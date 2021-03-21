@@ -1,9 +1,11 @@
-# Welcome, Developer
+# Welcome, Developer - Code Repository
 
-I'm Dan Castro, a Brazilian guy exploring New Zealand. I invite you to join me on the infinite journey of studying technology.
+I'm Dan Castro, a Brazilian guy exploring New Zealand. Nice to meet you. I'm a developer, just like you!
 
-Let's talk about web dev, data viz, cloud, data science, and... you know, everything that keep us awake late nights. All developers are welcome!
+Let's talk about web development, data vizualization, cloud computing, DevOps, and... you know, everything that keeps us awake until late at night 🦉
 
-I will be adding to this repository all the applications and exercises that we build together through the posts of [Welcome, Developer](https://www.welcomedeveloper.com/).
+All developers are invited to [Welcome, Developer](https://www.welcomedeveloper.com) 🖖
 
-Stay tuned, you are welcome to invite or follow me on [LinkedIn](https://www.linkedin.com/in/danilovcastro/)
+Follow us on [LinkedIn](https://www.linkedin.com/company/welcome-developer) to stay tuned!
+
+You are welcome to connect with me through my [personal LinkedIn](https://www.linkedin.com/in/danilovcastro/) page.
