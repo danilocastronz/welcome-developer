@@ -1,5 +1,11 @@
 # Welcome, Developer - Code Repository
 
+<hr/>
+
+⚠️ This repository has been depricated. Instead, now it is available a new repository per post written on the [Welcome, Developer](https://www.welcomedeveloper.com) blog.
+
+<hr/>
+
 I'm Dan Castro, a Brazilian guy exploring New Zealand. Nice to meet you. I'm a developer, just like you!
 
 Let's talk about web development, data vizualization, cloud computing, DevOps, and... you know, everything that keeps us awake until late at night 🦉
