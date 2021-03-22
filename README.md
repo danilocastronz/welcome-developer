@@ -2,7 +2,7 @@
 
 <hr/>
 
-⚠️ This repository has been depricated. Instead, now it is available a new repository per post written on the [Welcome, Developer](https://www.welcomedeveloper.com) blog.
+⚠️ This repository has been depricated. Instead, now it is available a new repository per post code written on the [Welcome, Developer](https://www.welcomedeveloper.com) blog.
 
 <hr/>
 
